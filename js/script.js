@@ -58,6 +58,8 @@ resultsContainer.style.backgroundColor = "yellow";
 
 // Question 7:
 
+// Answer
+
 const cats = [
     {
         name: "Blob",
@@ -72,7 +74,6 @@ const cats = [
     }
 ];
 
-// Answer
 
 function catList(list) {
     for(let i = 0; i < list.length; i++) {
